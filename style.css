@@ -470,7 +470,7 @@ form textarea {
     }
     .pic-section img {
         width: 40%;
-        border: 10px;
+        border-width: 10px;
     }
     .name {
         top: 80%;
