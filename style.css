@@ -73,7 +73,7 @@ body {
 .pic-section img {
     width: 30%;
     border-radius: 100%;
-    border: 15px solid rgba(255, 255, 255, 0.2);
+    border: 15px solid rgba(255, 255, 255, 0.3);
     cursor: pointer;
 }
 .name {
@@ -469,8 +469,8 @@ form textarea {
         height: 70vh;
     }
     .pic-section img {
-        width: 40%;
-        border-width: 10px;
+        width: 60%;
+        border-width: 12px;
     }
     .name {
         top: 80%;
