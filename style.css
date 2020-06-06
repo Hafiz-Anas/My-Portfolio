@@ -277,7 +277,6 @@ body {
 .details h1 {
     font-size: 17px;
     padding: 12px 0px;
-    font-weight: 200;
     border-bottom: rgb(196, 196, 196) 1px solid;
 }
 .details span {
@@ -465,6 +464,13 @@ form textarea {
     .title {
         padding: 3px 0px;
         font-size: 12px;
+    }
+    .pic-section {
+        height: 70vh;
+    }
+    .pic-section img {
+        width: 40%;
+        border: 10px;
     }
     .name {
         top: 80%;
