@@ -437,13 +437,14 @@ form textarea {
     .title {
         font-size: 13px;
     }
-    .project-header h1, .project-footer .more a {
+    .project-header h1 {
         font-size: 17px;
     }
-}    
-@media screen and (max-width: 550px) {
-    .name {font-size: 20px; display: block !important;}
-}
+    .name {
+        font-size: 20px;
+        display: block !important;
+    }
+}   
 @media screen and (max-width: 400px) {
     .nav-links li a {
         font-size: 11px;
