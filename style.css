@@ -5,7 +5,6 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 body {
-    overflow-x: hidden;
     box-sizing: border-box;
 }
 /*==========BASICS==========*/
@@ -465,6 +464,7 @@ form textarea {
         padding: 3px 0px;
         font-size: 12px;
     }
+    .title-sml {font-size: 11px;}
     .pic-section {
         height: 70vh;
     }
@@ -519,6 +519,7 @@ form textarea {
     .about {
         font-size: 12px;
         margin: 20px 15px 0px 0px;
+        padding: 20px;    
     }
     .about .heading h1 {
         font-size: 15px;
